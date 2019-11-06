@@ -15,5 +15,5 @@ http://www.linuxintro.org/wiki/Set_up_a_Webcam_with_Linux
 4. Inside the folder build it will appear an executable webcam_capture run (./webcam_capture)
 5. It will appear the following image:
 
-![picture](~/Robotics_Master/IR/classe1/forked/webcam_capture/image.png)
+![picture](webcam_capture/image.png)
 
