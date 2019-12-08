@@ -28,9 +28,6 @@ There are the following functions:
 
 
 ### Output
-v::Mat matArray[3] = {image,greyMat,inv};
-cv::hconcat(matArray,3,Output1);
-cv::Mat matArray2[3] = {bluefiltering,redfiltering,greenfiltering};
 It obtains the following images:
 1. Images with a changed rectangle: original image, grayscale rectangle, inverted rectangle;
 2. Images with a filtering: blue, red, green;
