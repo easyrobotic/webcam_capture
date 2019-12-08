@@ -11,6 +11,7 @@ http://www.linuxintro.org/wiki/Set_up_a_Webcam_with_Linux
 ## CODE
 
 There are the following functions:
+
 0. **obtain_intensity**(input image) -> it returns the intensity of the central pixel of the input image.
 1. **draw_blue_point**(input image) -> it returns an image with its central pixel in blue;
 2. **green_rectangle**(input image,rectangle width, rectangle height) -> it returns an image with a green color rectangle on its center;
@@ -19,7 +20,7 @@ There are the following functions:
 
 
 
-//Adding color filtering.
+### Adding color filtering.
 
 
 5. **blue_filtering**(input image,int width, int height) -> it returns the input image with blue filtration;
