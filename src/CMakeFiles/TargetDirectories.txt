@@ -1,0 +1,3 @@
+/home/julia/Robotics_Master/Perception/Exercises1/webcam_capture/src/CMakeFiles/rebuild_cache.dir
+/home/julia/Robotics_Master/Perception/Exercises1/webcam_capture/src/CMakeFiles/webcam_capture.dir
+/home/julia/Robotics_Master/Perception/Exercises1/webcam_capture/src/CMakeFiles/edit_cache.dir

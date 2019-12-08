@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/julia/Robotics_Master/Perception/Exercises1/webcam_capture/src/webcam_capture.cpp
+opencv2/opencv.hpp
+/home/julia/Robotics_Master/Perception/Exercises1/webcam_capture/src/opencv2/opencv.hpp
+opencv2/imgproc/imgproc.hpp
+-
+iostream
+-
+cstdlib
+-
+
